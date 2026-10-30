@@ -1,0 +1,13 @@
+{
+  "extClickToCall.call": "Gọi",
+  "extClickToCall.sms": "Nhắn tin",
+  "extClickToCall.whatsapp": "WhatsApp",
+  "extClickToCall.zalo": "Zalo",
+  "extClickToCall.copy": "Sao chép số",
+  "extClickToCall.copied": "Đã sao chép",
+  "extClickToCall.copyRemedy": "Hãy chọn số trên trang và sao chép thủ công.",
+  "extClickToCall.title": "Bấm để gọi",
+  "extClickToCall.sub": "Rê chuột lên bất kỳ số điện thoại nào trong Margince, hoặc nhấn Tab tới số đó, để gọi, nhắn tin, mở bằng WhatsApp hoặc Zalo, hoặc sao chép.",
+  "extClickToCall.try": "Thử ngay:",
+  "extClickToCall.international": "WhatsApp và Zalo cần số có mã quốc gia, ví dụ +84 cho Việt Nam."
+}

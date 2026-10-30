@@ -1,0 +1,13 @@
+{
+  "extClickToCall.call": "Anrufen",
+  "extClickToCall.sms": "SMS",
+  "extClickToCall.whatsapp": "WhatsApp",
+  "extClickToCall.zalo": "Zalo",
+  "extClickToCall.copy": "Nummer kopieren",
+  "extClickToCall.copied": "Kopiert",
+  "extClickToCall.copyRemedy": "Markieren Sie die Nummer auf der Seite und kopieren Sie sie von Hand.",
+  "extClickToCall.title": "Klick zum Anrufen",
+  "extClickToCall.sub": "Zeigen Sie auf eine Telefonnummer in Margince oder springen Sie mit der Tab-Taste darauf, um sie anzurufen, eine SMS zu senden, sie in WhatsApp oder Zalo zu öffnen oder zu kopieren.",
+  "extClickToCall.try": "Probieren Sie es:",
+  "extClickToCall.international": "WhatsApp und Zalo brauchen die Nummer mit Ländervorwahl, etwa +49 für Deutschland."
+}

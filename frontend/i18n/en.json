@@ -1,0 +1,13 @@
+{
+  "extClickToCall.call": "Call",
+  "extClickToCall.sms": "Text message",
+  "extClickToCall.whatsapp": "WhatsApp",
+  "extClickToCall.zalo": "Zalo",
+  "extClickToCall.copy": "Copy number",
+  "extClickToCall.copied": "Copied",
+  "extClickToCall.copyRemedy": "Select the number on the page and copy it by hand.",
+  "extClickToCall.title": "Click to call",
+  "extClickToCall.sub": "Rest the pointer on any phone number in Margince, or tab onto it, to call it, text it, open it in WhatsApp or Zalo, or copy it.",
+  "extClickToCall.try": "Try it:",
+  "extClickToCall.international": "WhatsApp and Zalo need the number with its country code, such as +84 for Vietnam."
+}
